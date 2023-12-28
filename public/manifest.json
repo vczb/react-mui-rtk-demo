@@ -1,9 +1,0 @@
-{
-  "short_name": "Gamou Loyalitty",
-  "name": "Gamou Loyalitty",
-  "icons": [],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#F57C00",
-  "background_color": "#ffffff"
-}
